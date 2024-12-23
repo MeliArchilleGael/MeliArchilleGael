@@ -55,8 +55,8 @@ SOFTWARE ENGINEER | FULL STACK WEB DEVELOPER | FRONTEND DEVELOPER | LARAVEL ENGI
   <img align="center" alt="Uly-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Uly-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Uly-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  
-  
+  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
+
 </div>
 </div>
  
